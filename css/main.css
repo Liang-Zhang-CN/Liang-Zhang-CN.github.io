@@ -14,8 +14,8 @@ img { border: 0; }
 .tab { margin-left: 40px; }
 
 /* highlighting color */
-::selection { background: #EAA0FA; /* Safari */ }
-::-moz-selection { background: #EAA0FA; /* Firefox */ }
+::selection { background: #36648B; /* Safari */ }
+::-moz-selection { background: #36648B; /* Firefox */ }
 
 body { 
 	font: 90% Arial, Helvetica, Sans-Serif;
