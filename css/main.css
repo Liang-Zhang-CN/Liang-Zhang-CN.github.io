@@ -14,8 +14,8 @@ img { border: 0; }
 .tab { margin-left: 40px; }
 
 /* highlighting color */
-::selection { background: #36648B; /* Safari */ }
-::-moz-selection { background: #36648B; /* Firefox */ }
+::selection { background: #EAA0FA; /* Safari */ }
+::-moz-selection { background: #EAA0FA; /* Firefox */ }
 
 body { 
 	font: 90% Arial, Helvetica, Sans-Serif;
@@ -26,7 +26,7 @@ body {
 /* typography */
 a { 
 /*	color: #1d4c75; */
-	color: #2f7572;
+	color: #1D7756;
 /*	text-decoration: none; */ 
 }
 a:hover {
