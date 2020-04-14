@@ -237,7 +237,7 @@ h3 {
 /* main content (left side) */
 #main { 
 	float: left; 
-	width: 500px; /* 500px */
+	width: 1000px; /* 500px */
 	margin: 0 0 40px; 
 }
 #main p strong {
