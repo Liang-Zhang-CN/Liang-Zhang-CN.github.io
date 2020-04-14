@@ -18,7 +18,7 @@ img { border: 0; }
 ::-moz-selection { background: #EAA0FA; /* Firefox */ }
 
 body { 
-	font: 90% Arial, Helvetica, Sans-Serif;
+	font: 90% Cambria,Arial, Helvetica, Sans-Serif;
 	color: #777;
 	line-height: 1.5em;
 }
