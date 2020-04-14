@@ -281,5 +281,73 @@ h3 {
 	color: #999;
 	text-shadow: 1px 1px 1px #fff;
 }
-
-
+#photo1 { 
+	float: left; 
+	width: 195px; /* 265px */
+	margin: 0 0 40px; 
+}
+#text1 { 
+	float: left; 
+	width: 350px; /* 500px */
+	margin: 0 0 40px; 
+}
+#photo2 { 
+	float: left; 
+	width: 195px; /* 265px */
+	margin: 0 0 40px; 
+}
+#text2 { 
+	float: left; 
+	width: 350px; /* 500px */
+	margin: 0 0 40px; 
+}
+#photo3 { 
+	float: left; 
+	width: 195px; /* 265px */
+	margin: 0 0 40px; 
+}
+#text3 { 
+	float: left; 
+	width: 350px; /* 500px */
+	margin: 0 0 40px; 
+}
+#photo4 { 
+	float: left; 
+	width: 195px; /* 265px */
+	margin: 0 0 40px; 
+}
+#text4 { 
+	float: left; 
+	width: 350px; /* 500px */
+	margin: 0 0 40px; 
+}
+#photo5 { 
+	float: left; 
+	width: 195px; /* 265px */
+	margin: 0 0 40px; 
+}
+#text6 { 
+	float: left; 
+	width: 350px; /* 500px */
+	margin: 0 0 40px; 
+}
+#photo6 { 
+	float: left; 
+	width: 195px; /* 265px */
+	margin: 0 0 40px; 
+}
+#text1 { 
+	float: left; 
+	width: 350px; /* 500px */
+	margin: 0 0 40px; 
+}
+#photo7 { 
+	float: left; 
+	width: 195px; /* 265px */
+	margin: 0 0 40px; 
+}
+#text7 { 
+	float: left; 
+	width: 350px; /* 500px */
+	margin: 0 0 40px; 
+}
