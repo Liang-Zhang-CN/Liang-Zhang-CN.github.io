@@ -124,11 +124,11 @@ h3 {
 }
 
 /* <<<<<<<<<<<<<<< ADDED BY ME >>>>>>>>>>>>>>> */
-/*#pitch2 {
+#pitch2 {
 	clear: both;
 	text-align: center;
 	height: 100px;
-}*/
+}
 
 #body_newpages { 
 	background: #f4f4f4 url(../images/bg_newpages_alternative2.png) repeat-x;
